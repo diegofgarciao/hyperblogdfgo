@@ -2,4 +2,6 @@ Este es el archivo de prueba para el curso de Platzi
 
 Cambios cambios 1
 
+Se ha unido otro desarrollador al proyecto
+
 Mañana habalremos de otra cosa
