@@ -4,4 +4,4 @@ Cambios cambios 1
 
 Se ha unido otro desarrollador al proyecto
 
-Mañana habalremos de otra cosa
+Mañana hablaremos de otra cosa -- Correcion
